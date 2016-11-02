@@ -1,2 +1,3 @@
 # hello-world
-dojo
+dojo: a practice area
+ elaborating on description
